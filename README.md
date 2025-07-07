@@ -32,3 +32,9 @@ A simple **2-player Snakes and Ladders** game built using Python, designed to ru
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anilvasy/Snake-and-Ladder-in-Python/blob/main/README.md
+
+💡 Learning Outcome
+-Built a complete turn-based board game in Python
+-Practiced modular programming using functions
+-Gained experience with terminal-based game logic
+-Improved understanding of Python basics and user interaction
