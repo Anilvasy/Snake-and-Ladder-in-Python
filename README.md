@@ -31,4 +31,4 @@ A simple **2-player Snakes and Ladders** game built using Python, designed to ru
 
 1. Clone the repository:
    ```bash
-   git clone https:
+   git clone https://github.com/Anilvasy/Snake-and-Ladder-in-Python/blob/main/README.md
